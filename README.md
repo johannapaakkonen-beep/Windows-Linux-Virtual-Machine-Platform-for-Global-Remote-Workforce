@@ -11,14 +11,14 @@ to design and implement a virtualized infrastructure that could serve as a testi
 
 
 
-## 🎯 Project Goals  
+## Project Goals  
 - Build a secure and scalable virtualization platform separated from production systems  
 - Enable remote access and centralized management for future testing and training  
 - Document the entire setup to support later development and troubleshooting  
 
 
 
-## ⚙️ Implementation Overview  
+## Implementation Overview  
 
 I installed **Debian 12** on a dedicated bare-metal server and then deployed **Proxmox VE** on top of it as the main hypervisor.  
 The environment included **Windows Server 2025** and **Ubuntu Server 24.04 LTS** configured as domain controllers —  
@@ -96,5 +96,5 @@ This project became a fully functional, administrator-controlled virtualization 
 
 
 
-## 📎 VM PROJECT SCREENSHOTS
+## VM PROJECT SCREENSHOTS
 https://jyu-my.sharepoint.com/:b:/g/personal/jokrpaak_jyu_fi/Eb5GXIEqJvZGlatl0420MhABazk4DB9gyfDBJV7m0cDjsQ?e=iBomhv
