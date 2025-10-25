@@ -1,5 +1,4 @@
-# Windows-Linux VM-Platform for Global Remote Workforce
-Cross-Platform Virtualization Environment for Remote Employee Access (Windows &amp; Linux)
+# Cross-Platform Virtualization Environment for Remote Employee Access (Windows &amp; Linux)
  
 
 **IT Support Trainee / System Administrator**  
