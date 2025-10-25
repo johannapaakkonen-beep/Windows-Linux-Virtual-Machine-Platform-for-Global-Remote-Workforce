@@ -56,4 +56,7 @@ Documentation and Maintenance
 
 
 ## VM PROJECT SCREENSHOTS
-https://jyu-my.sharepoint.com/:b:/g/personal/jokrpaak_jyu_fi/Eb5GXIEqJvZGlatl0420MhABazk4DB9gyfDBJV7m0cDjsQ?e=iBomhv
+VM PROJECT SCREENSHOTS
+
+[https://jyu-my.sharepoint.com/:b:/g/personal/jokrpaak_jyu_fi/Eb5GXIEqJvZGlatl0420MhABazk4DB9gyfDBJV7m0cDjsQ?e=iBomhv](https://jyu-my.sharepoint.com/:b:/g/personal/jokrpaak_jyu_fi/Eb5GXIEqJvZGlatl0420MhABazk4DB9gyfDBJV7m0cDjsQ?e=iBomhv)
+
