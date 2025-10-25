@@ -5,10 +5,6 @@ Cross-Platform Virtualization Environment for Remote Employee Access (Windows &a
 **IT Support Trainee / System Administrator**  
 *1 May – 31 July 2025, Finland*  
 
-
-IT Support Trainee / System Administrator
-1 May – 31 July 2025, Finland
-
 At the beginning of my traineeship at Tutors Finland / España, I proposed and defined my own project: 
 to design and implement a virtualized infrastructure that could serve as a testing and development environment for Tutors’ internal IT operations. 
 
